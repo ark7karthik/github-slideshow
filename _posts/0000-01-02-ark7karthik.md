@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+life may be hard but dont let yourself down
 Use the left arrow to go back!
